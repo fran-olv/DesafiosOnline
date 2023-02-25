@@ -2,7 +2,9 @@
 
 ## HackerHank 
 That`s my solucion for HackerHank Challengers
- Java Preparation
+- Java Preparation (GitHub)
+- Python Preparation (gitHub)
+- Problem Solving  
  
  ## LeetCode
  
